@@ -374,6 +374,10 @@ header .container {
   }
 }
 
+.left-center{
+  margin: 0;
+}
+
 @media screen and (max-width: 470px) {
   .container {
     padding: 0 1.5rem;
